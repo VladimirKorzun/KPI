@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="l\FileReader.cs">
+    <Files>
+      <File FileName="l\Main.cs" Line="1" Column="1" />
+      <File FileName="l\Base.cs" Line="72" Column="43" />
+      <File FileName="l\Log.cs" Line="1" Column="1" />
+      <File FileName="l\FileReader.cs" Line="87" Column="4" />
+      <File FileName="l\Controller.cs" Line="59" Column="4" />
+      <File FileName="l\Vector.cs" Line="130" Column="67" />
+      <File FileName="l\Matrix.cs" Line="56" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="l" expanded="True">
+            <Node name="FileReader.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
