@@ -37,6 +37,10 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Workplace.cs" />
+    <Compile Include="Person.cs" />
+    <Compile Include="Worker.cs" />
+    <Compile Include="Cashier.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

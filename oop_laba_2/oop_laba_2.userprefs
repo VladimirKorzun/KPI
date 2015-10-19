@@ -2,7 +2,11 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="oop_laba_2\Main.cs">
     <Files>
-      <File FileName="oop_laba_2\Main.cs" Line="22" Column="60" />
+      <File FileName="oop_laba_2\Main.cs" Line="16" Column="22" />
+      <File FileName="oop_laba_2\Workplace.cs" Line="10" Column="21" />
+      <File FileName="oop_laba_2\Person.cs" Line="15" Column="34" />
+      <File FileName="oop_laba_2\Worker.cs" Line="13" Column="21" />
+      <File FileName="oop_laba_2\Cashier.cs" Line="17" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
