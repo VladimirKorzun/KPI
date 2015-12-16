@@ -1,0 +1,12 @@
+c:\users\администратор\documents\visual studio 2015\Projects\laba5\laba5\bin\Debug\laba5.exe.config
+c:\users\администратор\documents\visual studio 2015\Projects\laba5\laba5\bin\Debug\laba5.exe
+c:\users\администратор\documents\visual studio 2015\Projects\laba5\laba5\bin\Debug\laba5.pdb
+c:\users\администратор\documents\visual studio 2015\Projects\laba5\laba5\obj\Debug\laba5.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2015\Projects\laba5\laba5\obj\Debug\laba5.Properties.Resources.resources
+c:\users\администратор\documents\visual studio 2015\Projects\laba5\laba5\obj\Debug\laba5.csproj.GenerateResource.Cache
+c:\users\администратор\documents\visual studio 2015\Projects\laba5\laba5\obj\Debug\laba5.exe
+c:\users\администратор\documents\visual studio 2015\Projects\laba5\laba5\obj\Debug\laba5.pdb
+c:\users\администратор\documents\visual studio 2015\Projects\laba5\laba5\obj\Debug\laba5.ZooListCont.resources
+c:\users\администратор\documents\visual studio 2015\Projects\laba5\laba5\obj\Debug\laba5.Forms.AnimalControllForm.resources
+c:\users\администратор\documents\visual studio 2015\Projects\laba5\laba5\obj\Debug\laba5.Forms.AnimalCreatorForm.resources
+C:\Users\Администратор\documents\visual studio 2015\Projects\laba5\laba5\obj\Debug\laba5.Forms.AnimalIndivid.resources
